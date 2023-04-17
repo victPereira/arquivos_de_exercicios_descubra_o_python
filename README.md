@@ -2,12 +2,12 @@
 
 Listed in chapters with comments explaining which example is running
 
-Criação de classes.
-Manipulação de data e hora.
-Trabalhando com arquivos, criando, lendo e manipulando arquivos.
-Exemplos de Manipulaçoes JSON, HTML e XML
-Exemplo Django
+Class creation.
+Date and time manipulation.
+Working with files, creating, reading and manipulating files.
+Examples of JSON, HTML and XML Manipulations
+django example
 
-Pesquisar em Banco de Dados
+Search in Database
 MongoDB.
 SQLite
